@@ -34,12 +34,17 @@ Save favorite properties
 
 🖼️ Screenshots
 
+## Signup Page
 ![Signup Page](screenshots/signup.png)
 
+## Login Page
 ![Login Page](screenshots/login.png)
 
+## Home Page
 ![Home Page](screenshots/home.png)
 
+## Property Listings
 ![Property Listing Page](screenshots/pglisting.png)
 
+## Details Page
 ![Detail of PG](screenshots/detail.png)
