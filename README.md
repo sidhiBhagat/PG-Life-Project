@@ -1,22 +1,44 @@
-#PGlife# 
+🏠 PG Life — Full Stack Web Application
+
+A full-stack web application that helps students and working professionals find, compare, and shortlist PG accommodations across major Indian cities.
+
+📌 About the Project
+
+PG Life is a PHP & MySQL-based web portal developed as part of an internship project at JECRC University, Jaipur.
+
+Finding accommodation in a new city can be overwhelming — this platform simplifies the process by offering a centralized system to:
+
+Search PGs by city
+View detailed property information
+Filter and sort listings
+Save favorite properties
 
 
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
+✨ Features
+👤 For Users (Students)
+🔍 City-wise Search — Search PGs by city (Delhi, Mumbai, Bengaluru, Hyderabad)
+🏠 Property Listings — View rent, gender type, ratings, and address
+📄 Property Details Page — Images, amenities, ratings, testimonials
+❤️ Wishlist Feature — Save properties (AJAX-based, no reload)
+👤 User Dashboard — View profile and saved properties
+🔐 Authentication System — Signup/Login with session management
+🔽 Filter & Sort — Sort by rent, filter by gender
+🛡️ For Admin - (IN PROGRESS)
+🔐 Secure Admin Login (session-protected)
+📊 Dashboard with real-time stats
+➕ Add new properties (images + amenities)
+✏️ Edit existing properties
+🗑️ Delete properties (DB + images)
+🔎 Search & filter listings
 
-Step 1: Watch Our Comprehensive Setup Video
-For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
 
-Video link: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
+🖼️ Screenshots
+![Signup Page](screenshots\signup.png)
 
-Step 2: Get the Essential Components
+![Login Page] (screenshots\login.png)
 
-To get started, you'll need two crucial components:
+![Home Page](screenshots\home.png)
 
-a) GitHub Repository
-We've provided a GitHub repository that contains all the code and files necessary for your PGlife project. You can find it right here on this page.
+![Property Listing Page](screenshots\pglisting.png)
 
-b) Database Management System (DBMS)
-Our Database Management System is hosted separately on Google Drive. To access the database file, please refer to the link in the YouTube video description.
-
-
-Please feel free to let me know if you have any further revisions or specific changes you'd like to make.
+![Detail of PG](screenshots\detail.png)
