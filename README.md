@@ -33,12 +33,13 @@ Save favorite properties
 
 
 🖼️ Screenshots
-![Signup Page](screenshots\signup.png)
 
-![Login Page] (screenshots\login.png)
+![Signup Page](screenshots/signup.png)
 
-![Home Page](screenshots\home.png)
+![Login Page](screenshots/login.png)
 
-![Property Listing Page](screenshots\pglisting.png)
+![Home Page](screenshots/home.png)
 
-![Detail of PG](screenshots\detail.png)
+![Property Listing Page](screenshots/pglisting.png)
+
+![Detail of PG](screenshots/detail.png)
